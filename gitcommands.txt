@@ -1,1 +1,7 @@
  git init
+
+ git remote add origin remote_repo_name
+
+ git add file_name (or . for all files in current working directory)
+
+ git status  /// shows the status of your git repository
